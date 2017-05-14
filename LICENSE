@@ -1,0 +1,21 @@
+Copyright (c) 2017 Rubinius, Inc.
+
+All source code in projects found under the Rubinius GitHub organization
+authored prior to January 3rd, 2016 are licensed under the BSD license found
+in the file "LICENSE.BSD" or under other terms expressed in the code itself or
+in an associated license file.
+
+All source code in projects found under the Rubinius GitHub organization
+authored on or after January 3rd, 2016 and prior to May 13th, 2017 are subject
+to the terms of the Mozialla Public License, version 2.0, unless otherwised
+stated. A copy of this license can be found in the file "LICENSE.MPL-2.0" or
+at https://www.mozilla.org/MPL/2.0/.
+
+All source code in projects found under the Rubinius GitHub organization
+authored on or after May 13th, 2017 are subject EITHER to the terms of the
+Mozialla Public License, version 2.0, or custom license provided by Rubinius,
+Inc., unless otherwised stated. A copy of the Mozilla Publice License can be
+found in the file "LICENSE.MPL-2.0" or at https://www.mozilla.org/MPL/2.0/.
+
+For any questions related to the license of source code in projects found
+under the Rubinius GitHub organization, please email license@rubinius.com.
